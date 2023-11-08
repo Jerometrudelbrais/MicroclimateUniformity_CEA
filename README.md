@@ -7,5 +7,5 @@ This repository includes all the files related to the sensor system, as well the
 
 ![Alt text](https://github.com/Jerometrudelbrais/MicroclimateUniformity_CEA/blob/main/SensorSystem/SensorSystem_Hardware/3DModels/FullSystem_3Dmodel.png)
 
-This as part of my master thesis in bioresource engineering at mcgill university. 
+This as part of my master thesis in bioresource engineering at McGill university. 
 
