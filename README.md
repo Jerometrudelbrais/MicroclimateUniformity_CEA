@@ -5,7 +5,7 @@ To monitor the environmental conditions in the cultivation room, a low-cost Inte
 
 This repository includes all the files related to the sensor system, as well the data analysis.
 
-![Alt text](image link)
+![Alt text](https://github.com/Jerometrudelbrais/MicroclimateUniformity_CEA/blob/main/SensorSystem/SensorSystem_Hardware/3DModels/FullSystem_3Dmodel.png)
 
 This as part of my master thesis in bioresource engineering at mcgill university. 
 
